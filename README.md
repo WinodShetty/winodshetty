@@ -1,4 +1,4 @@
-<img src="" alt="DevOps Banner" width="100%" />
+<img src="https://github.com/WinodShetty/winodshetty/blob/0cfb8ca75890acc8eb5b38c47dc89ef6a2ecf0e9/Vinod%20Banner.png" alt="DevOps Banner" width="100%" />
 
 ## 👋 Hi, I'm [Your Name]
 

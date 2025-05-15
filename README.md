@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Vinod Kumar
 
-🚀 DevOps & AWS Cloud Engineer with 4+ years of expirience  
+🚀 DevOps & AWS Cloud Engineer with 4+ years of experience   
 🛠️  · CI/CD · Terraform · Jenkins · Ansible ·Docker · Kubernetes
 
   

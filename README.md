@@ -6,7 +6,7 @@
 🛠️  · CI/CD · Terraform · Jenkins · Ansible ·Docker · Kubernetes
 
   
-🌱 Exploring full-stack dev & multi-cloud (Azure, GCP)
+🌱 Exploring Full-Stack  & Multi-Cloud (Azure, GCP)
 
 ---
 
